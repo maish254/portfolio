@@ -11,5 +11,3 @@ closeMenuBtn.addEventListener("click",()=>{
     navBar.classList.add("nav-links")
     navBar.classList.remove("show-navbar")
 })
-
-
